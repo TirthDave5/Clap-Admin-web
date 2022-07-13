@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Clap-Admin-web/static/css/main.fa80ee1b.css",
-    "main.js": "/Clap-Admin-web/static/js/main.50a75f25.js",
+    "main.js": "/Clap-Admin-web/static/js/main.a78afd4c.js",
     "static/media/logo.png": "/Clap-Admin-web/static/media/logo.ec80886934f2b0cb5a49.png",
     "index.html": "/Clap-Admin-web/index.html",
     "main.fa80ee1b.css.map": "/Clap-Admin-web/static/css/main.fa80ee1b.css.map",
-    "main.50a75f25.js.map": "/Clap-Admin-web/static/js/main.50a75f25.js.map"
+    "main.a78afd4c.js.map": "/Clap-Admin-web/static/js/main.a78afd4c.js.map"
   },
   "entrypoints": [
     "static/css/main.fa80ee1b.css",
-    "static/js/main.50a75f25.js"
+    "static/js/main.a78afd4c.js"
   ]
 }
