@@ -7,13 +7,7 @@ import GenerateCoupons from './modules/GenerateCoupons';
 
 const App = () => {
   return (
-    <Routes>
-      <Route path="/" element={<Login />} />
-      <Route path="/home" element={<AppScreen />}>
-        <Route path="user" element={<Users />} />
-        <Route path="coupon" element={<GenerateCoupons />} />
-      </Route>
-    </Routes>
+    <GenerateCoupons/>
   )
 }
 
