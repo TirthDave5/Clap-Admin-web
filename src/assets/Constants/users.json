@@ -1,0 +1,30 @@
+[
+    {
+        "mobileNo": "9898909097",
+        "status": "Pending"
+    },
+    {
+        "mobileNo": "7678903210",
+        "status": "Pending"
+    },
+    {
+        "mobileNo": "8987547808",
+        "status": "Member"
+    },
+    {
+        "mobileNo": "8378898789",
+        "status": "Member"
+    },
+    {
+        "mobileNo": "8978767890",
+        "status": "Member"
+    },
+    {
+        "mobileNo": "8978909876",
+        "status": "Member"
+    },
+    {
+        "mobileNo": "9879890989",
+        "status": "Not Approved"
+    }
+]
